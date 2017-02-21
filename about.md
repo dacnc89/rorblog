@@ -1,28 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About this blog
 ---
 
+This site was created to help you learn Jekyll, and is a companion of the [lynda.com](http://www.lynda.com) course **Jekyll for Web Designers**. While this blog has many posts detailing Jekyll and its components, it's not designed to be a step-by-step tutorial for using Jekyll. For that, check out the lynda.com course. The main repo for this site contains the blog and the exercise files for the course. 
 
+I designed the blog as a teaching tool first and foremost, but it is designed to be simple, clean, and responsive. I used [HTML5 Boilerplate](https://html5boilerplate.com/ "html5 boilerplate") and [Normalize.css](http://necolas.github.io/normalize.css/ "normalize.css") as my starting points and narrowed them down to what I considered to be the essentials. The menu is manually generated but is responsive and built on pure CSS. The HTML focuses on semantics and is built with accessibility in mind. The CSS is not based on any framework, and only contains what the blog needs, there are no layout grids or extra UI classes. SASS is used only for code syntax highlighting, and can be stripped out easily as it is imported into the main.css file. The file links to a custom [Modernizr](http://modernizr.com/ "modernizr") library that isn't used in the final build but is available if you need it. I recommend replacing it with the Modernizr build of your choice. The entire blog was built to be customized as you wish, and not force you into any conventions or frameworks. Feel free to clone this repo and experiment and reuse the blog as you see fit.
 
-Vài thông tin tổng quan về Ruby on Rail
+### About the Author
 
-. Ruby là gì
-
-Ruby là một ngôn ngữ lập trình, được tạo ra bởi Yukihiro “Matz” Matsumoto. Ruby được sử dụng rất phổ biến trong lập trình, được xếp vào 1 trong 10 ngôn ngữ lập trình phổ biến nhất trên thế giới. Sự phổ biến của ngôn ngữ Ruby thường gắn liền với Rails, do lập trình viên thường sử dụng Ruby cùng với Rails.
-
-Giống như Java, Ruby là kiểu ngôn ngữ lập trình "general-purpose", Mặc dù vậy, Ruby thường được biết đến với vai trò lập trình web.
-
-Các bạn có thể tìm hiểu thêm về Ruby tại [ruby-lang.org](https://www.ruby-lang.org)
-
-. Rails là gì
-
-Rails là một thư viện mở rộng của Ruby, được viết bởi David Heinemeier Hansson, và được ông đặt tên là Ruby on Rails. Dù vậy, lập trình viên vẫn hay gọi với tên ngắn hơn: Rails
-
-Rails là một gói thư viện của Ruby (RubyGem), và được cài đặt bằng cách sử dụng command line. Rails được sử dụng để xây dựng website, nó kết hợp Ruby, HTML, CSS, JavaScript để tạo ra một ứng dụng web chạy trên web server.
-
-
-
-Tìm hiểu thêm về Rails tại [rubyonrails.org](http://rubyonrails.org/)
-
+My name is James Williamson. I'm a Senior Author at lynda.com and I've been writing and teaching web design and development for just over 15 years. I love what I do and hope you find this blog and course useful. If you see me out at a conference or event please say hello. My favorite form of communication is Twitter, where you'll find me ranting 140 characters at a time at [@jameswillweb](https://twitter.com/jameswillweb "my twitter profile"). 
